@@ -2,7 +2,7 @@ const { description } = require('../../package')
 
 module.exports = {
   // This is for Github Pages
-  base: '/docs/adab',
+  base: '/docs/adab/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
