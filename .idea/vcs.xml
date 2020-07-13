@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adab/docs/.vuepress/deploy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adab/docs/.vuepress/dist" vcs="Git" />
   </component>
 </project>
